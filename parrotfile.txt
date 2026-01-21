@@ -1,0 +1,7 @@
+git commit 
+
+Create a new commit containing the current changes of the stagging area (added files and directories)
+We need to give a commit message which we can see in the git log message describing the changes. 
+ # Commit the changes with a message
+     git commit -m "Added new feature"
+     
